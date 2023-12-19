@@ -67,6 +67,7 @@ BEGIN
     BEGIN
         BLOCK "040904b0"
         BEGIN
+            VALUE "CompanyName", "Carlmundo"
             VALUE "FileDescription", "Basic Discord Rich Presence for Worms 2 to show whether you're in the menus or in-game"
             VALUE "FileVersion", "1.0.0.0"
             VALUE "InternalName", "fkDRP.dll"
