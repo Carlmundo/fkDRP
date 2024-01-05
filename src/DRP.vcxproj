@@ -78,11 +78,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="PEInfo.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="send-presence.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PEInfo.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="DRP.rc" />
