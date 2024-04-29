@@ -51,8 +51,8 @@ END
 //
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 1,0,0,1
- PRODUCTVERSION 1,0,0,1
+ FILEVERSION 1,0,0,2
+ PRODUCTVERSION 1,0,0,0
  FILEFLAGSMASK 0x3fL
 #ifdef _DEBUG
  FILEFLAGS 0x1L
@@ -69,11 +69,11 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "Carlmundo"
             VALUE "FileDescription", "Basic Discord Rich Presence for Worms 2 to show whether you're in the menus or in-game"
-            VALUE "FileVersion", "1.0.0.1"
+            VALUE "FileVersion", "1.0.0.2"
             VALUE "InternalName", "fkDRP.dll"
             VALUE "OriginalFilename", "fkDRP.dll"
             VALUE "ProductName", "Worms 2 Discord Rich Presence"
-            VALUE "ProductVersion", "1.0.0.1"
+            VALUE "ProductVersion", "1.0.0.0"
         END
     END
     BLOCK "VarFileInfo"
